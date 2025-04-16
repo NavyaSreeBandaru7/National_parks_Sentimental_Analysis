@@ -45,7 +45,7 @@ bashpython -m spacy download en_core_web_sm
 
 Running the Application
 bashstreamlit run app.py
-The application will open in your default web browser at http://localhost:8501.
+The application will open in your default web browser at (https://huggingface.co/spaces/Navya-Sree/Sentimental-Analysis-National-parks).
 Usage
 
 Enter a URL from one of the supported websites:
