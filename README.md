@@ -2,6 +2,7 @@
 link:https://huggingface.co/spaces/Navya-Sree/National_parks
 
 Overview
+
 The National Park Review Analyzer is a web application that uses natural language processing to analyze visitor reviews of national parks. It provides insights into visitor sentiment across different categories like hiking trails, facilities, fees, and more.
 Live Demo: Visit on Hugging Face Spaces
 
